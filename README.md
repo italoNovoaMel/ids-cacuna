@@ -1,5 +1,4 @@
-{
-"result":[
+[
     {
         "inventoryId": "JJOY33896"
     },
@@ -19,5 +18,3 @@
         "inventoryId": "EYIZ38892"
     }
 ]
-
-}
